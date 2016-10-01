@@ -17,6 +17,7 @@ import com.pluralsight.jacket.entry.service.EntryRepositoryEntryDetailsService;
 import com.pluralsight.jacket.entry.service.models.JacketEntry;
 
 public class JacketEntryServiceOnRepositoryTest {
+    //dummy change
     EntryRepositoryEntryDetailsService jacketEntryServiceOnRepository;
     EntryRepository repository;
     Log log;
