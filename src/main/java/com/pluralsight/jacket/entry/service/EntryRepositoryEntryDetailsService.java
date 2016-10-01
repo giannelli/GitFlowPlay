@@ -46,7 +46,7 @@ public class EntryRepositoryEntryDetailsService implements JacketEntryService {
 	@Override
 	@Transactional(readOnly = false)
 	public void updateEntry(JacketEntry e) {
-		
+		// What's to be done!?
 	}
 }
 
