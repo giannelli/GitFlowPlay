@@ -3,12 +3,12 @@ package com.pluralsight.jacket.entry.data.models;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-
+// jgi03 was here!
 @Entity
 @Table(name = "entries")
 public class Entry extends BaseModel {
 
-    // fields used by the databases
+    // fields used by the database
     private String url;
     private String title;
 
